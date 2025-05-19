@@ -67,7 +67,7 @@ print(user1._BankAccount__pin)  # ⚠️ Works, but not recommended
 ## 🧠 Author
 
 - **Shahed Rahman**
-- Email: `xyz@gmail.com`
+- Email: `shahedrahmanltd@gmail.com`
 
 ---
 
